@@ -497,7 +497,11 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
     m_FontSize: 18
+=======
+    m_FontSize: 14
+>>>>>>> ae9e3aa0c93663db37dbc56155562afa634e60ce
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 10
@@ -508,7 +512,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
+<<<<<<< HEAD
   m_Text: "UV2B13 \u9EC3\u6631\u7444"
+=======
+  m_Text: Button
+>>>>>>> ae9e3aa0c93663db37dbc56155562afa634e60ce
 --- !u!222 &840300815
 CanvasRenderer:
   m_ObjectHideFlags: 0
